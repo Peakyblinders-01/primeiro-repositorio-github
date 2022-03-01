@@ -1,0 +1,12 @@
+Comandos;
+
+*git clone (colar link) - clona o repositório do
+Git/Hub
+
+*git status - verifica o status dentro da pasta
+*git add . - prepara o envio do arquivo para o 
+Git/Hub
+*git commit -m "comentario" -Cria um commit para
+o arquivo a ser enviado
+*git push oringin main - Envia todos os commits
+local para o Git/Hub. 
