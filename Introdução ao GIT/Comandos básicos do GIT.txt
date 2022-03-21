@@ -8,5 +8,5 @@ Git/Hub
 Git/Hub
 *git commit -m "comentario" -Cria um commit para
 o arquivo a ser enviado
-*git push oringin main - Envia todos os commits
+*git push origin main - Envia todos os commits
 local para o Git/Hub. 
